@@ -1,2 +1,2 @@
 # project_python
-An initiative to swith from perl to python
+An initiative to switch from perl to python
